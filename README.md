@@ -1,10 +1,11 @@
-# CSharp-Exercise.-1
-My first C# program to practice basic input and output operations.
+# CSharp-Ejercicio-1
 
-## Features
-- Asks for the user's name.
-- Displays a personalized greeting.
+Mi primer programa en C# para practicar operaciones básicas de entrada y salida.
 
-## Tools
-- Language: C#
+## Características
+- Solicita el nombre del usuario.
+- Muestra un saludo personalizado.
+
+## Herramientas
+- Lenguaje: C#
 - IDE: Visual Studio 2022
