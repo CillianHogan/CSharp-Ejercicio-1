@@ -11,21 +11,21 @@ namespace Exercise_1
         static void Main(string[] args)
         {
             /*
-            Exercise 1. Create a program that displays the question "What is your name?" and then waits for the user to type their name,
-            storing the input in a variable. Finally, it should display the greeting "Hello, <name>!".
+            Ejercicio 1. Crea un programa que muestre la pregunta "¿Cómo te llamas?" y luego espere a que el usuario escriba su nombre, 
+            almacenando la entrada en una variable. Finalmente, debe mostrar el saludo "¡Hola, <nombre>!".
             */
 
-            // Declare a variable to store the user's name
-            string name = "";
+            // Declara una variable para almacenar el nombre del usuario
+            string nombre = "";
 
-            // Ask the user for their name
-            Console.WriteLine("What is your name?");
+            // Pregunta al usuario su nombre
+            Console.WriteLine("¿Cómo te llamas?");
 
-            // Read the input from the user and store it in the variable
-            name = Console.ReadLine();
+            // Lee la entrada del usuario y la almacena en la variable
+            nombre = Console.ReadLine();
 
-            // Display the greeting with the user's name
-            Console.WriteLine("Hello " + name + "!");
+            // Muestra el saludo con el nombre del usuario
+            Console.WriteLine("¡Hola " + nombre + "!");
         }
     }
 }
